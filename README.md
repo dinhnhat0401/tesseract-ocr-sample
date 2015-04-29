@@ -59,5 +59,6 @@ Tesseract OCR is quite powerful, but does have the following limitations:
 
 ## References
 
-http://www.raywenderlich.com/93276/implementing-tesseract-ocr-ios
-https://code.google.com/p/tesseract-ocr/wiki/FAQ
+* http://www.raywenderlich.com/93276/implementing-tesseract-ocr-ios
+
+* https://code.google.com/p/tesseract-ocr/wiki/FAQ
