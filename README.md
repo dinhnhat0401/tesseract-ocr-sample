@@ -47,7 +47,7 @@ Tesseract OCR is quite powerful, but does have the following limitations:
 
 ## Tesseract test result
 
-| No   |      image url      |  recognize ?(x/o) |
+| No   |      image url      |  recognizable ?(x/o) |
 |------|:--------------------:|------:|
 | 1 | ![](http://i.gyazo.com/8b2f17aef83aa8bedafa32391e852606.png) | x |
 | 2 | ![](http://i.gyazo.com/e631a5c603293097240a0d37a91ab63a.png) |   o |
